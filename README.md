@@ -1,5 +1,7 @@
 <h2 align="left">Hi 👋! My name is Mim and I'm a passionate Full Stack Developer from Bangladesh</h2>
 
+<img src="https://i.ibb.co/Q3ZBW4hZ/opt-2.png" width="100%" alt="Canva Animation" />
+
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me
 
 I'm a dedicated **MERN Stack Developer** 🇧🇩 with an academic background in **Mathematics** and a deep interest in both **web technologies** and **digital media**. My analytical foundation from mathematics empowers me to write efficient, logic-driven code and approach problem-solving with clarity and structure.
@@ -8,7 +10,14 @@ Currently, I’m sharpening my skills through **Programming Hero**, actively bui
 
 ---
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400" />
+</div>
+
+---
+
 ### 🎯 What I Do
+
 - 🧩 Build clean, maintainable, and scalable full-stack applications using the **MERN stack**
 - ⚙️ Work with modern tools and frameworks like **React**, **Node.js**, **Express**, **MongoDB**, and **Next.js**
 - 🎨 Combine design thinking with development to create intuitive, responsive UIs
@@ -17,6 +26,7 @@ Currently, I’m sharpening my skills through **Programming Hero**, actively bui
 ---
 
 ### 📚 Currently Exploring
+
 - ⚡ Performance optimization in React for production-ready apps  
 - 🔐 Secure coding practices, including **JWT**, **authorization**, and **API protection**  
 - 🧠 **Clean architecture**, reusable components, and modular backend design  
@@ -24,7 +34,7 @@ Currently, I’m sharpening my skills through **Programming Hero**, actively bui
 
 ---
 
-### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My GitHub Stats:
+### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mim-dot&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" width="48%" alt="GitHub Stats" />
@@ -75,7 +85,7 @@ Currently, I’m sharpening my skills through **Programming Hero**, actively bui
     <td valign="top">
       <a href="mailto:mimh84297@gmail.com" target="_blank">
         <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-      </a><br/><br/>
+      </a><br /><br />
       <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
         <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
       </a>
