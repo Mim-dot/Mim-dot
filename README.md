@@ -1,30 +1,39 @@
 <h2 align="left">Hi 👋! My name is Mim and I'm a passionate Full Stack Developer from Bangladesh</h2>
 
-I'm a passionate **MERN Stack Developer** 🇧🇩 with a unique background in **Political Science** and a deep curiosity for both **web technologies** and **digital media**. Currently sharpening my skills through **Programming Hero**, I’m actively building real-world projects that solve meaningful problems.
+I'm a dedicated **MERN Stack Developer** 🇧🇩 with an academic background in **Mathematics** and a deep interest in both **web technologies** and **digital media**. My analytical foundation from mathematics empowers me to write efficient, logic-driven code and approach problem-solving with clarity and structure.
+
+Currently, I’m sharpening my skills through **Programming Hero**, actively building full-stack web applications that solve real-world problems and enhance user experiences.
 
 ---
 
 ### 🎯 What I Do
-- 🧩 Craft clean, scalable, and user-friendly full-stack applications  
-- ⚙️ Work with modern tools like **React**, **Node.js**, **MongoDB**, and **Express**  
-- 🎨 Combine design sense with development to build polished portfolio projects  
-- 💬 Continuously improve communication, collaboration, and soft skills  
+- 🧩 Build clean, maintainable, and scalable full-stack applications using the **MERN stack**
+- ⚙️ Work with modern tools and frameworks like **React**, **Node.js**, **Express**, **MongoDB**, and **Next.js**
+- 🎨 Combine design thinking with development to create intuitive, responsive UIs
+- 💬 Continuously refine soft skills such as communication, teamwork, and problem-solving  
 
 ---
 
-### 📚 Currently Learning
-- ⚡ React performance optimization  
-- 🔐 Web security and clean architecture best practices  
-- 🔑 JWT authentication, secure APIs & modern deployment workflows  
+### 📚 Currently Exploring
+- ⚡ Performance optimization in React for production-ready apps  
+- 🔐 Secure coding practices, including **JWT**, **authorization**, and **API protection**  
+- 🧠 **Clean architecture**, reusable components, and modular backend design  
+- 🚀 Hosting via **Vercel**, **Render**, and **Netlify**
 
 ---
 
+
+---
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mim-dot&show_icons=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mim-dot&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mim-dot&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mim-dot&theme=tokyonight&hide_border=false" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mim-dot&layout=compact&langs_count=8&theme=tokyonight&hide_border=false" width="50%" />
+</p>
 
 ---
 
