@@ -1,5 +1,7 @@
 <h2 align="left">Hi 👋! My name is Mim and I'm a passionate Full Stack Developer from Bangladesh</h2>
 
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me
+
 I'm a dedicated **MERN Stack Developer** 🇧🇩 with an academic background in **Mathematics** and a deep interest in both **web technologies** and **digital media**. My analytical foundation from mathematics empowers me to write efficient, logic-driven code and approach problem-solving with clarity and structure.
 
 Currently, I’m sharpening my skills through **Programming Hero**, actively building full-stack web applications that solve real-world problems and enhance user experiences.
@@ -22,22 +24,21 @@ Currently, I’m sharpening my skills through **Programming Hero**, actively bui
 
 ---
 
-
----
-### 📊 GitHub Stats
+### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mim-dot&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mim-dot&theme=tokyonight&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mim-dot&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mim-dot&theme=tokyonight&hide_border=false" width="48%" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mim-dot&layout=compact&langs_count=8&theme=tokyonight&hide_border=false" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mim-dot&layout=compact&langs_count=8&theme=tokyonight&hide_border=false" width="50%" alt="Top Languages" />
 </p>
 
 ---
 
-# 💻 Tech Stack:
+### 💻 Tech Stack
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
@@ -80,7 +81,7 @@ Currently, I’m sharpening my skills through **Programming Hero**, actively bui
       </a>
     </td>
     <td valign="top" align="right">
-      <img src="https://i.imgflip.com/65efzo.gif" height="150" alt="fun gif" />
+      <img src="https://i.imgflip.com/65efzo.gif" height="150" alt="Fun animation" />
     </td>
   </tr>
 </table>
